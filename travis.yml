@@ -6,10 +6,3 @@ jdk:
  - openjdk8
  
 script: ant build
-
-after_script: 
-notifications: 
-recipients: 
-- johnnymiguelpires@gmail.com
-- hassanfelix10@gmail.com
-- johnnymiguelpires@hotmail.com
